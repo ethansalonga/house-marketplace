@@ -356,7 +356,7 @@ function CreateListing() {
                 />
               </div>
               <div>
-                <label className="formLabel">Longitutde</label>
+                <label className="formLabel">Longitude</label>
                 <input
                   className="formInputSmall"
                   type="number"
